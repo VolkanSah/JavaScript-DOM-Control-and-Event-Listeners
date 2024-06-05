@@ -1,4 +1,4 @@
-# JavaScript-DOM-Control-and-Event-Listeners
+# JavaScript DOM-Control and Event-Listeners
 [Deutsch](LIES-MICH.md)
 
 This project provides examples and explanations on how to control the DOM (Document Object Model) and use event listeners in JavaScript. It covers the basics of manipulating HTML elements, handling user interactions, and responding to various events.
