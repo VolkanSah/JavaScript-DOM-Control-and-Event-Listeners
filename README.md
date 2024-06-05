@@ -41,8 +41,8 @@ Demonstrates the use of the `stopPropagation` method to prevent event propagatio
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests.
 
-## License  ?
-knowledge should not be subject to any licenses or costs!
+## License
+Knowledge should not be subject to any licenses or costs!
 
 ## Credits
 **Volkan Sah**
