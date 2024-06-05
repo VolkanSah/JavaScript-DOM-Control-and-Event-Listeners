@@ -47,6 +47,5 @@ button.addEventListener('click', function() {
     alert('Button was clicked!');
 });
 ```
-
 ## Credits
 Volkan Sah
