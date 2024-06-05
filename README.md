@@ -1,5 +1,6 @@
 
 # JavaScript DOM Control and Event Listeners
+###### Update 05.06.2024
 
 This project provides various examples and explanations on how to control the DOM (Document Object Model) and use event listeners in JavaScript. Each example is documented within the script file itself.
 
