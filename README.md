@@ -42,4 +42,7 @@ Demonstrates the use of the `stopPropagation` method to prevent event propagatio
 Contributions are welcome! Please fork the repository and submit pull requests.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the  GPL-3.0 License.
+
+## Credits
+**Volkan Sah**
