@@ -8,9 +8,6 @@ This project provides examples and explanations on how to control the DOM (Docum
 2. [Getting Started](#getting-started)
 3. [DOM Manipulation](#dom-manipulation)
 4. [Event Listeners](#event-listeners)
-5. [Examples](#examples)
-6. [Contributing](#contributing)
-7. [License](#license)
 
 ## Introduction
 Understanding how to interact with the DOM and handle events is fundamental to building dynamic web applications. This guide will help you get started with these core concepts in JavaScript.
